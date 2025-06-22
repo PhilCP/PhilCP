@@ -1,6 +1,9 @@
 # Hi, I'm Phil 👋  
 🎓 Final-year CS student  
 💻 Building fast, modern front-ends with a focus on clean UX/UI
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/cinamula-philippe-535453225/)
+
 
 
 # 💻 Tech Stack:

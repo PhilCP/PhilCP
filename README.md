@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Phil — a **Front-End & Full-Stack Developer** passionate about building **fast, modern, and user-focused applications**.  
+👋 Hi, I'm Phil — a **Full-Stack Developer** passionate about building **fast, modern, and user-focused applications**.  
 💻 Skilled in React, Next.js, Vue, and Tailwind with experience deploying scalable solutions on **Firebase, Vercel, and AWS**.  
 🚀 Currently working on real-world projects that combine **clean UI/UX** with robust backend systems.  
 🌱 Always learning, experimenting, and pushing for **high-quality, maintainable code**.  

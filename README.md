@@ -15,17 +15,20 @@
 # 💻 Tech Stack:
 **Frontend:** React, Next.js, Vue, Vite, TailwindCSS, Bootstrap, Vuetify  
 **Backend & Databases:** Node.js, Firebase, Supabase, Appwrite, PostgreSQL, AWS, Apache  
-**Tools & Others:** Git, GitHub, Java, Figma  
+**Tools & Others:** Git, GitHub, Java, Figma, Vapi  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/vapi-543DE0?style=for-the-badge&logo=vapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white"/>
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+
 </p>
 
 ---
